@@ -1,0 +1,77 @@
+#mainheading {
+  color: black;
+  font-family: Courier;
+}
+
+#subheading{
+  color: black;
+  font-family: Courier;
+}
+
+body{
+  background-color:#E66A8C;
+  color: white;
+  text-align: center;
+  font-family: Courier;
+  padding-top: 0.5rem:
+  border 3px solid white;
+}
+
+.button{
+  color: white;
+  display: inline-block;
+  border-radius: 5px;
+  padding: 0.5rem;
+  border: 1px solid white;
+  font-family: Courier;
+  margin-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.button:hover{
+  color: #E66A8C;
+  background-color: white;
+  cursor: pointer;
+}
+
+h1{
+  fontsize: 2.5rem;
+}
+
+inputcontainer{
+  position:relative;
+}
+
+.title{
+  margin-bottom: 0.5rem;
+}
+
+.weatherDescription{
+  margin-bottom: 0.5rem;
+}
+
+.weatherImage{
+  width: 10rem;
+  margin-bottom: 0.5rem;
+}
+
+.weatherHumidity{
+  font-size: 1rem;
+}
+
+.weatherTemperature{
+  font-size: 1rem;
+}
+
+.boundaries{
+  border-style: solid;
+  border-color: white;
+  border-width: 1rem;
+  border-radius: 16px;
+  width: 35%;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 3rem;
+
+}
